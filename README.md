@@ -1,6 +1,8 @@
 # [**NextGen Payment**](https://nextgen-payment.netlify.app/) - website using React.js & Tailwind CSS
 
-![Моя велика картинка](https://raw.githubusercontent.com/Basiuk-Ivan/Banking-Landing-page/main/src/assets/Screen.png)
+![NextGen Payment](https://raw.githubusercontent.com/Basiuk-Ivan/Banking-Landing-page/main/src/assets/Screen.png)
+
+"The Next Generation Payment Method" is a landing page developed using HTML, JavaScript, React, and Tailwind CSS. Landing page is fully responsive to users on various devices, including phones and tablets, ensuring convenience and accessibility on any screen size.
 
 ### Languages and Tools:
 
@@ -15,10 +17,3 @@
 <a href="https://www.figma.com/" title="Figma"  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 
 </p>
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
