@@ -1,5 +1,7 @@
 # [**NextGen Payment**](https://nextgen-payment.netlify.app/) - website using React.js & Tailwind CSS
 
+![Моя велика картинка](https://raw.githubusercontent.com/Basiuk-Ivan/Banking-Landing-page/main/src/assets/Screen.png)
+
 ### Languages and Tools:
 
 <p align="left"> 
